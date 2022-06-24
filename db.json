@@ -1,0 +1,108 @@
+{
+  "Earrings": [
+    {
+      "id": "101",
+      "imgUrl": "https://cdn.caratlane.com/media/catalog/product/J/E/JE02774-YGP900_1_lar.jpg",
+      "name": "Diamond Earrings (0.1 ct, IJ-SI), 18 KT Yellow Gold Jewellery - Stripe Diamond Hoop Earrings for Women. Design - Minimalist.",
+      "originalPrice": 19469,
+      "discountedPrice": 10000,
+      "category": "Earrings"
+    },
+    {
+      "id": "102",
+      "imgUrl": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE02774-YGP900_13_pdtouch.png",
+      "name": "Diamond Earrings (0.1 ct, IJ-SI), 18 KT Yellow Gold Jewellery - Stripe Diamond Hoop Earrings for Women. Design - Minimalist.",
+      "originalPrice": 35679,
+      "discountedPrice": 32987,
+      "category": "Earrings"
+    },
+    {
+      "id": "103",
+      "imgUrl": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06089-1RP9ED_13_pdtouch.png",
+      "name": "Diamond Earrings (0.1 ct, IJ-SI), 18 KT Yellow Gold Jewellery - Stripe Diamond Hoop Earrings for Women. Design - Minimalist.",
+      "originalPrice": 23456,
+      "discountedPrice": 22123,
+      "category": "Earrings"
+    }
+  ],
+  "Necklaces": [
+    {
+      "id": "111",
+      "imgUrl": "https://cdn.caratlane.com/media/catalog/product/J/L/JL04317-1RP900_1_lar.jpg",
+      "name": "Diamond Necklace (0.2 ct, IJ-SI), 14 KT Rose Gold Jewellery - Halo Circlet Diamond Necklace for Women. Design - Top Picks. Length 17 inch",
+      "originalPrice": 29758,
+      "discountedPrice": 20550,
+      "category": "Necklace"
+    },
+    {
+      "id": "112",
+      "imgUrl": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/L/JL03370-YGP9EB_13_pdtouch.png",
+      "name": "Set in 18 KT Yellow Gold(7.830 g) with diamonds (0.205 ct ,IJ-SI)",
+      "originalPrice": 82850,
+      "discountedPrice": 80980,
+      "category": "Necklace"
+    },
+    {
+      "id": "113",
+      "imgUrl": "https://cdn.caratlane.com/media/catalog/product/J/L/JL04458-1RP900_1_lar.jpg",
+	   "name": "Set in 18 KT Yellow Gold(7.830 g) with diamonds (0.205 ct ,IJ-SI)",
+      "originalPrice": 67345,
+      "discountedPrice": 64389,
+      "category": "Necklace"
+    }
+  ],
+
+  "Rings": [
+    {
+      "id": "211",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnqQiU9PFgZ7_tH4na-0MU2Pp0Ubx1lxmGN-WJzffvK5g-eee4CiiEpZVe43wgG6rYNvM&usqp=CAU",
+      "name": "Diamond Ring (22kt)",
+      "originalPrice": 15000,
+      "discountedPrice": 14350,
+      "category": "Rings"
+    },
+    {
+      "id": "212",
+      "imgUrl": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/R/JR03246-YGP900_13_pdtouch.png",
+      "name": "Set in 18 KT Yellow Gold(3.430 g) with diamonds (0.160 ct ,IJ-SI)",
+      "originalPrice": 36309,
+      "discountedPrice": 34560,
+      "category": "Rings"
+    },
+    {
+      "id": "213",
+      "imgUrl": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/R/JR03259-YGP900_13_pdtouch.png",
+      "name": "Ceylia Joyous Diamond Ring",
+      "originalPrice": 30107,
+      "discountedPrice": 28880,
+      "category": "Rings"
+    }
+  ],
+
+  "Bracelets": [
+    {
+      "id": "311",
+      "imgUrl": "https://cdn.caratlane.com/media/catalog/product/J/T/JT00625-YGP900_1_lar.jpg",
+      "name": "Gold chain Bracelet",
+      "originalPrice": 65192,
+      "discountedPrice": 61349,
+      "category": "Bracelets"
+    },
+    {
+      "id": "312",
+      "imgUrl": "https://cdn.caratlane.com/media/catalog/product/J/T/JT01069-1YP600_3_lar.jpg",
+      "name": "Tiana Triad Diamond Bracelet",
+      "originalPrice": 38611,
+      "discountedPrice": 36041,
+      "category": "Bracelets"
+    },
+    {
+      "id": "313",
+      "imgUrl": "https://cdn.caratlane.com/media/catalog/product/J/T/JT01126-1RP6P0_1_lar.jpg",
+      "name": "Quad and Pearl Bracelet",
+      "originalPrice": 27888,
+      "discountedPrice": 27399,
+      "category": "Bracelets"
+    }
+  ]
+}
